@@ -9,6 +9,7 @@
   <p align="center">
     Scrapes server invite links from https://discadia.com/
     <br />
+    Support by giving me a ⭐!
   </p>
 </div>
 
