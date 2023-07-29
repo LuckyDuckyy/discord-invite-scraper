@@ -1,0 +1,7 @@
+bs4
+requests
+os
+colorama
+threading
+tls_client
+ctypes
